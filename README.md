@@ -39,4 +39,4 @@
 
 # :mailbox_with_mail: Contacts
 [![GitHub Blog](http://img.shields.io/badge/-GitHub%20Blog-black?style=flat-square&logo=github&link=https://younghoonko.github.io/)](https://younghoonko.github.io/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:example@gmail.com)](mailto:example@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:example@gmail.com)](mailto:smilegyh@gmail.com)
