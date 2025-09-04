@@ -1,6 +1,6 @@
 # YougHoon Ko 😉
 
-[![Hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fyounghoonko?color=green&label=Visitors&size=small)](https://myhits.vercel.app)
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FYoungHoonKo?color=red&label=hits&size=medium)](https://myhits.vercel.app)
 
 # 👨🏻‍💻Git Farm
 <a href="https://github.com/devxb/gitanimals">
