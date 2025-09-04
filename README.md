@@ -1,8 +1,8 @@
-# KO YOUNG HOON 😉
+# YougHoon Ko 😉
 
 [![Hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fyounghoonko?color=green&label=Visitors&size=small)](https://myhits.vercel.app)
 
-# 🌱My git farm 
+# 👨🏻‍💻Git Farm
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/younghoonko"
