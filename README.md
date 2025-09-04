@@ -1,4 +1,4 @@
-<h1 align="center">👋 안녕하세요, 고영훈입니다!</h1>
+<h1 align="center">👋 Hi, YoungHoon here</h1>
 
 <p align="center">
   <b>데이터 & AI 분야에 열정</b><br/>
