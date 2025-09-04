@@ -1,49 +1,40 @@
-<h1 align="center">👋 Hi, YoungHoon here</h1>
+# KO YOUNG HOON 😉
 
-<p align="center">
-  <b>데이터 & AI 분야에 열정</b><br/>
-  깃허브 블로그에 제 공부 기록과 프로젝트를 정리하고 있습니다.
-</p>
+[![Hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fyounghoonko?color=green&label=Visitors&size=small)](https://myhits.vercel.app)
 
----
+# 🌱My git farm 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/younghoonko"
+  height="200em"
+/>
+</a>
 
-## 🌱 About Me
-- 💻 전공: 컴퓨터공학
-- 📊 관심 분야: 데이터 분석, 인공지능, 금융 IT  
-- 📚 취미: 철학 책 읽기, 토론하기  
-- ✨ 목표: 데이터와 AI로 사회 문제 해결에 기여하기
+# 💪GitHub stats
+![Younghoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=younghoonko&show_icons=true&theme=radical)
 
----
+# 🚀Skills
+### Back-end Technologies  
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C.svg?&style=for-the-badge&logo=C&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 
-## 📝 My Blog
-👉 [깃허브 블로그 바로가기](https://younghoonko.github.io)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 
-여기에서는 다음과 같은 내용을 다룹니다:
-- 📖 **학습 노트**: 수업 정리, 알고리즘 & 자료구조, 디지털 공학 등  
-- 🛠️ **프로젝트**: 학부 연구, 개인 개발, 창업 동아리 활동  
-- ✍️ **회고 & 기록**: 학습 회고, 철학적 성찰, 일상에서의 배움  
+### Front-end Technologies  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 
----
+### Version Control & Collaboration Tools  
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
 
-## 🔧 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</p>
+### IDEs & Development Tools  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=younghoonko&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=younghoonko&layout=compact&theme=tokyonight" height="160px"/>
-</p>
-
----
-
-## 📫 Contact
-- GitHub: [@younghoonko](https://github.com/younghoonko)  
-- Email: example@example.com  
+# :mailbox_with_mail: Contacts
+[![GitHub Blog](http://img.shields.io/badge/-GitHub%20Blog-black?style=flat-square&logo=github&link=https://younghoonko.github.io/)](https://younghoonko.github.io/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:example@gmail.com)](mailtosmilegyh@gmail.com)
