@@ -1,8 +1,8 @@
-# YougHoon Ko 😉
+# YoungHoon Ko 😉
 
-[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FYoungHoonKo?color=red&label=hits&size=medium)](https://myhits.vercel.app)
+[![Hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fyounghoonko?color=green&label=Visitors&size=small)](https://myhits.vercel.app)
 
-# 👨🏻‍💻Git Farm
+# 🌱My git farm 
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/younghoonko"
@@ -13,8 +13,10 @@
 # 💪GitHub stats
 ![Younghoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=younghoonko&show_icons=true&theme=radical)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nice2g)](https://solved.ac/nice2g/)
+
 # 🚀Skills
-### Languages I used
+### Back-end Technologies  
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
@@ -37,4 +39,4 @@
 
 # :mailbox_with_mail: Contacts
 [![GitHub Blog](http://img.shields.io/badge/-GitHub%20Blog-black?style=flat-square&logo=github&link=https://younghoonko.github.io/)](https://younghoonko.github.io/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:example@gmail.com)](mailtosmilegyh@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:example@gmail.com)](mailto:example@gmail.com)
