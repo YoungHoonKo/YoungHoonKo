@@ -1,42 +1,87 @@
-# YoungHoon Ko 😉
+# 👋 Hi, I'm **YoungHoon Ko**
 
-[![Hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fyounghoonko?color=green&label=Visitors&size=small)](https://myhits.vercel.app)
+A student who loves thinking, creating, and exploring how people and machines understand each other. 
 
-# 🌱My git farm 
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/younghoonko"
-  height="200em"
-/>
-</a>
+I am especially interested in **Data Science, LLM, and Applied AI** — solving real problems with thoughtful design and reliable engineering.
 
-# 💪GitHub stats
-![Younghoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=younghoonko&show_icons=true&theme=radical)
+---
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nice2g)](https://solved.ac/nice2g/)
+## 🎓 Education
 
-# 🚀Skills
-### Back-end Technologies  
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C.svg?&style=for-the-badge&logo=C&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+|    Institution    |        Major         |      Period       |        Status         |
+| :---------------: | :------------------: | :---------------: | :-------------------: |
+| Hongik University | Software Engineering | 2022.03 ~ 2027.02 | Undergraduate Student |
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
+---
 
-### Front-end Technologies  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
+## 💼 Experience
 
-### Version Control & Collaboration Tools  
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
+|          Organization / Lab          |               Role               |      Period       |                         Description                          |
+| :----------------------------------: | :------------------------------: | :---------------: | :----------------------------------------------------------: |
+| **Human-Centered AI Lab (HCAI Lab)** | Undergraduate Research Assistant | 2025.09 ~ Present | Conducting research on leveraging **LLMs** to design **disaster-relief essential supply kits**, focusing on understanding both practical needs and emotional stability in crisis environments. Exploring how AI can support more humane and context-aware aid distribution. |
+|     **PROJECT BUSAN** (Web Team)     |       Front-End Developer        | 2024.07 ~ 2024.12 | Collaborated in a 4-person team to build and refine user interface components and interaction flow. Focused on enhancing usability and designing clear, consistent navigation behavior. |
 
-### IDEs & Development Tools  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
+---
 
-# :mailbox_with_mail: Contacts
-[![GitHub Blog](http://img.shields.io/badge/-GitHub%20Blog-black?style=flat-square&logo=github&link=https://younghoonko.github.io/)](https://younghoonko.github.io/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:example@gmail.com)](mailto:smilegyh@gmail.com)
+## 🚀 Featured Project
+
+### 🏙 PROJECT BUSAN — Urban-Based Web Service Prototype
+
+A prototype platform exploring how users interact with city-based information services.
+
+**Problem Context**  
+
+- Existing platforms for urban/local information often suffer from fragmented UI flow and inconsistent usability.  
+- Our goal was to design a **clear and intuitive interaction experience**, improving user navigation and comprehension.
+
+**Approach & Solution**  
+
+- Constructed a **component-based front-end architecture** to support scalable UI reuse and clean page transitions.  
+- Performed iterative refinement through **feedback cycles** and small user observation tests.
+
+**My Contributions**
+
+- Developed **UI components** and **page-level interaction logic**
+- Managed collaborative development through **Git workflow**
+- Contributed to **layout clarity and information hierarchy** during design reviews
+
+**Key Learnings**
+
+- Practical experience in **team-based front-end development**
+- Strengthened understanding of **human-centered usability considerations**
+- Improved translating abstract design discussions into **concrete implementation steps**
+
+> _Demo and documentation updates are in progress._
+
+---
+
+## 🧱 Tech Stack
+
+|    Category    |                            Skills                            |
+| :------------: | :----------------------------------------------------------: |
+|   Languages    |                     C, Java, Python, SQL                     |
+| Web / Frontend |    Component-based UI development, basic UX layout design    |
+|   Tools & CS   | Git / GitHub, VS Code, Linux, Computer Engineering fundamentals |
+
+---
+
+## 📜 Certifications & Training
+
+|                   Certification / Program                   | Level / Result |  Date   |
+| :---------------------------------------------------------: | :------------: | :-----: |
+|                  **SQLD (SQL Developer)**                   |      Pass      | 2025.09 |
+| **Computer Specialist in Spreadsheet & Database (Level 2)** |      Pass      | 2022.02 |
+
+---
+
+## 🌱 Currently Learning
+
+- Data structures and algorithmic thinking
+- Machine learning fundamentals with hands-on experiments
+- Understanding representation and inference mechanisms in large-scale models
+
+---
+
+## 📫 Contact
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:smilegyh@gmail.com)
